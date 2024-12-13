@@ -1,0 +1,439 @@
+<div class="wide" style="text-align:center; font-size: 1em;">
+# World of Dungeons S
+A house-ruled version of World of Dungeons by Sigmund M. Nilssen. Credits to John Harper for writing the original World of Dungeons. Combat was inspired by Cairn by Yochai Gal. The Critical Wound Charts are based on the work of Denis Tetreault. 
+</div>
+
+#### Character creation
+___
+* **NAME** Pick a land of origin and a name from the lists at the end of this document.
+
+___
+* **ATTRIBUTES** Start with all at 0, then roll 3 times on the starting attribute table:
+
+
+<div style='column-count:3'>
+| d6 | Change |
+|:---:|:------------|
+|  1  | +1 Str        |
+|  2  | +1 Dex        |
+
+| d6 | Change |
+|:---:|:------------|
+|  3  | +1 Con    |
+|  4  | +1 Int      |
+
+| d6 | Change |
+|:---:|:------------|
+|  5  | +1 Wis    |
+|  5  | +1 Cha    |
+</div>
+
+*Str* is physical power and melee skill. *Dex* is stealth, balance, grace, reaction speed and aim with ranged weapons. *Con* is stamina and health. *Int* is knowledge and ability to reason and see through deception. *Wis* governs senses, awareness, bravery and resolve. *Cha* is charm, leadership and and force of personality.
+
+___
+* **HIT POINTS (HP)** You have maximum HP depending on your Con and level, see the level table. 
+___
+When you rest, drink something and consume a ration, regain Con+level lost HP.
+
+___
+* **SPECIES** Pick one: *Dwarfs* have +1 HP, but are one step slower than their armor would indicate (no penalty in heavy armor). *Elfs* have -1 Con, but get the Cantrips ability for free. If they have negative Con, their max HP is 2 lower than they would have had at Con 0. *Halflings* have -1 Str, but get the Lucky ability for free. *Humans* have no special rules to worry about.
+
+___
+* **CLASSES** Pick a class at first level. On higher levels, you may learn abilities from any class. *Learn one skill of your choice* in addition to what is listed for your class.
+
+* BARBARIANS get ***Awareness*** and pick one ability each from the Fighters and Rangers abilities.
+
+* BARDS get ***Deception*** and pick one ability each from the Thaumaturges and Thieves abilities.
+
+* DRUIDS get ***Survival*** and pick one ability each from the Priests and Rangers abilities.
+
+* FIGHTERS get ***Athletics***. Choose two special abilities: **Skirmish** (+1 damage and worn armor counts as one type lighter), **Tough** (+1 armor), **Slay** (+2 melee damage), **Hardy** (+6 maximum HP), **Second wind** (use an action to rest, no food/drink required, once per fight)
+
+* PRIESTS get ***Decipher*** and ***Heal***. Choose two special abilities: **Bless** (spending holy water, you can anoint items so they are considered holy and magical — +3 damage vs. evil — for a short time), **Cure** (you can attempt (Wis) to neutralize poisons, remove curses, or heal wounds with a touch), **Turn** (you can attempt (Cha) to hold undead at bay with the power of your faith and a holy symbol), **Vision** (drink holy water to commune with your deity for divine guidance)
+
+* PALADINS get ***Leadership*** and pick one ability each from the Fighters and Priests abilities.
+
+* RANGERS get ***Survival***. Choose two special abilities: **Pet** (you have a loyal and effective animal companion), **Scout** (when you scout ahead you always spot the target before it spots you), **Volley** (+2 ranged damage), **Wildtongue** (you can converse with and attempt to command animals)
+
+* THAUMATURGES get ***Decipher*** and ***Lore***. Choose two special abilities: **Cantrips** (you know  Level+Int simple magical powers from this list: Throw Voice, Glow, Snap, Chill, Mend, Muffle, Clean, Gust, Heat, Tug, Scribe, Mask, Float, Bind, Soak. They require you to drink a dose of Quicksilver, but work automatically. They create fairly limited or subtle effects.), **Command** (you can attempt (Cha) to command any spirit or demon.), **Ritual** (you know 1+Int occult rituals, and can spend Ritual Incense and Oils, along with the unique ingredients required, to perform them. Rituals take ten minutes to perform, but have significant impact such as animating a skeleton for a fight, or teleporting you, or speaking with the dead. Each ritual consumes a unique ingredient that is often expensive or hard to get.) **Sorcery** (Pick a domain of power, such as flame, shadow, stone, lightning, secrets, fear, etc. You can drink a dose of quicksilver and draw on your life force to attempt (Cha) to create magical effects that fall within that domain. Very powerful spells take more time to cast, and may fail with dire consequences.) **Summoning** (you can spend a vial of silvered blood to summon any spirit or demon you know the True Name of, and you start out knowing two such names. Each spirit/demon has one domain of power it can perform magic within and will consider one request after being summoned, before disappearing. These are fickle and malevolent creatures that are likely to grant the wish but not in the way you wanted, unless coerced using the *Command* ability or bribed with something they want.)
+
+* THIEVES get ***Stealth***. Choose two special abilities: **Backstab** (attack from concealment to do +3 damage), **Dodge** (armor equals Dex if not wearing armor or shield, and not carrying anything heavy beyond a main hand weapon),  **Lucky** (once per session, turn a miss into a partial success or a partial success into a success), **Reflexes** (you always go first and can react when suddenly surprised), **Tinker** (you can attempt to quickly pick a lock, pick a pocket, or disarm a trap)
+
+
+> ##### Quicksilver 
+> This liquid magic is used by mages to fuel some of their powers. Drinking more than level+Con vials a day may cause harm.
+
+___
+* **EXPERIENCE** You get 1xp for each silver piece you spend on training, charity, donations or entertainment. (Not bribes though.)
+
+\page
+
+<div class="wide">
+#### Maximum HP and abilities by level
+| Level | XP needed | HP if<br/>Con=0 | HP if<br/>Con=1 | HP if<br/>Con=2 | HP if<br/>Con=3 | Skills | Attributes | Abilities | Damage |
+|:-----:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| 1|      0| 4 | 5 | 6 | 7 |1+1|           | 2 | |
+| 2|  1 000| 7 | 8 | 9 | 10|   |           |   | |
+| 3|  3 000| 9 | 11| 12| 13| +1|           | +1| |
+| 4|  6 000| 11| 14| 16| 17|   |+1 (MAX +3)|   | |
+| 5| 10 000| 12| 16| 18| 20|   |           |   | +1d6 |
+| 6| 15 000| 14| 18| 21| 23| +1|           | +1| |
+| 7| 21 000| 16| 19| 23| 25|   |+1 (MAX +3)|   | |
+| 8| 28 000| 18| 21| 25| 28|   |           |   | |
+| 9| 36 000| 19| 23| 26| 30| +1|           | +1| |
+|10| 45 000| 21| 25| 28| 32|   |+1 (MAX +3)|   | +1d6 |
+</div>
+
+#### Rolling the dice
+When you attempt something risky or try to avoid a threat (physical or otherwise), roll 2d6 and add one of your attribute scores, based on the action you’re taking. (The DM will tell you some of the possible consequences before you roll, so you can decide if it’s worth the risk or if you want to revise your action.)
+
+A total of 6 or less is a miss; things don’t go well and the risk turns out badly. A total of 7-9 is a partial success; you do it, but there’s some cost, compromise, retribution, harm, etc. A total of 10 or more is a full success; you do it without complications. 
+
+___
+* **SKILLS** If you have an applicable skill, add +1 to the roll.
+* *Athletics* is used for physical actions such as climbing, jumping, rowing, etc.
+* *Awareness* is used to spot things and react quickly.
+* *Deception* is used to trick people in social interaction.
+* *Decipher* is used to interpret old texts and languages, and solve riddles.
+* *Heal* is used to treat wounds, poison and illness.
+* *Leadership* is used to charm or intimidate others.
+* *Lore* is used to reveal scholarly knowledge.
+* *Stealth* is used to hide, sneak and shadow.
+* *Survival* is used to navigate, forage and find shelter.
+
+____
+**COMBAT** Whatever side initiates combat goes first.
+
+Take turns, one side then the other. Each combatant can move and take an action such as attacking. Attacks do not use the normal dice rolling rules, other actions (and risky movement) do.
+
+When attacking, roll your damage (D6-2 if unarmed) and subtract enemy armor. Target loses the remainder in HP. A roll of 1 is a fumble, apply damage but the DM may also describe some other consequence.
+
+If on a grid, movement is 6 (5 if light armor, 4 if heavy), double if you do not take an action. Otherwise, handle movement abstractly, DM can ask for appropriate tests to get particularily far in one turn.
+___
+**SWARMS** of unmemorable enemies act as a single entity. They can attack anyone in range once, but only one attack per target. If they lose half their total HP, the rest flee. If their total HP is ten times the sum of their opponents, fighting them normally is impossible.
+```
+```
+
+
+#### Equipment and services
+You start with equipment and coin worth 60 silver pieces.
+___
+* **Light Weapon (10s):** d6. May be used in the off hand, allowing you to re-roll damage once per attack. Includes daggers, short swords, and hand axes.
+* **Martial Weapon (30s):** d6+1. Must be wielded in main hand. Includes long swords, hammers, axes, spears etc.
+* **Great Weapon (40s):** d6+2 damage. Requires two hands. Includes two-handed swords, battle-axes and pole arms.
+* **Shortbow (10s):** d6. Also slings etc.
+* **Bow (30s):** d6+1. Also crossbows, pistols etc.
+* **Heavy Bow/Gun (50s):** d6+2. Can only be used if stationary. Includes arbalests and muskets.
+* **Light Armor (30s):** Armor 1. Slows you a little.
+* **Full Armor (60s):** Armor 2. Slows you a lot, -1 to sneak, climb, swim, etc.
+* **Shield (10s):** +1 Armor.
+* **Adventuring Gear (2s each):** 20ft Rope, Iron spike, Chalk, Parchment, Flint/Steel, Torches (4), Tent, Dice, Caltrops (slows pursuers), Bandages, Travel rations, Waterskin.
+* **Tools (5s each):** Crowbar, Hatchet, Animal trap, Lockpicks, Pen & pot of ink, Fishing pole, Shovel, Grappling hook, Pickaxe, Collapsible measuring stick.
+* **Occult Items (10s each):** Quicksilver (per dose), Vial of Holy Water (one use), Vial of Silvered Blood (one use), Ritual incense and oils (one use).
+* **Fancy Items (20s each):** Mirror, Lantern, Sand timer, Board game, Elaborate clothes, Holy symbols, Charms.
+* **Fire Oil (20s per cask):** Sets an area on fire (d6+1 damage/round for 3 rounds unless extinguished). Fills a lantern 10 times.
+* **Boats:** Rowboat (50s) to Galley (200,000s).
+* **Carts:** Cart (30s) to Wagon (100s).
+* **Taverns:** 1s to sleep, 1s to eat, 1s to get drunk.
+* **Temples:** 50s for a blessing, 500s for a cure, 5000s for a ressurection. Or perhaps you could do them a favor...
+* **Property:** House (1,000s) to Manor (100,000).
+* **Horses:** Mule (30s), Horse (100s), Warhorse (1,000s).
+* **Hirelings:** **Torch Bearer (2s/day):** 3HP, Knife. **Guide (5s/day):** 6HP, Knife, Lantern, Rope. **Armsman (20s/day):** 12HP, Spear, Shield, Light armor. **Expert (20s/day):** 6HP, Can perform specialty task unerringly if given time, tools and calm working environment, Dagger, Bow. **Champion (60s/day):** 18HP, Full armor, Halberd, Sword, Shield, Dagger.
+___
+* **SELLING** Salvaged equipment is sold at 1/10th value.
+
+\page
+
+#### Names
+True names have power. If you tell someone your true name, they can attempt to have you raised from the dead if you met your end before your time. But your true name can also be used to target you with curses and other baleful powers. Choose your land of origin and a true name below.
+
+##### Northlands
+<img src='https://github.com/sigmanil/rpgimagerepo/blob/main/northlands.jpeg?raw=true' 
+  style='width:50%;float:right;margin:5px' />
+Arnar, Lárus, Magni, Rúnar, Skúli, Ásmundur, Barði, Júrek, Eymundur, Falur, Rúrik, Skjöldur, Grimi, Yrsa, Þura, Árdís, Bára, Úlfrún, Valdís, Fríða, Dóra, Auðrún, Freydís, Júnía, Kára, Einhildur, Pála, Róhildur, Úlfdís, Tjóld, Áki, Ármann, Aðalbjörg, Bergljót, Úlfur, Ylfa, Hrafn, Tryggvi, Sólmundur, Leifur, Björn, Hákon, Guðný, Þórhildur, Eiríkur, Ingólfr, Snorri, Þráinn, Álfdís, Kolfinna, Helga, Sigfríð, Gunnlaugur, Þorgeir, Styrmir, Vigdís, Laufey
+
+
+##### The Imperium
+<img  src='https://github.com/sigmanil/rpgimagerepo/blob/main/imperium.jpeg?raw=true' 
+  style='width:50%;float:right;margin:5px' />
+Zahiel, Akhivar, Aram, Shun, Azur, Khadon, Awidam, Awrahim, Balishar, Dom Ashur, Eilram, Khnan, Nirar, Romrama, Yomadan, Farrokh, Shahruz, Shahkam, Tahmatan, Kurosh, Hamid, Anoshiravan, Esfandiyar, Sahand, Shaahin, Kamraan, Adar, Aram, Zahir, Khojasteh, Omid, Arsalan, Aruhai, Awita, Damrina, Eilina, Hano, Khannah, Markita, Nashiram, Ninsina, Rashomta, Sharokina, Zari, Darya, Shadi, Alaaleh, Kiana, Zahra, Taraneh, Samaneh, Zhila, Parya, Azita, Sahra, Tajie, Shahla, Mirza, Keshva, Farzin, Zain, Ramak, Hamun, Mehrshad, Jaleh, Fereshteh, Asha, Ghazaaleh, Suriya, Afsaneh, Soraya, Bahareh, Leili, Delara, Setareh, Nava, Azadeh.
+
+
+##### The Regency
+<img  src='https://github.com/sigmanil/rpgimagerepo/blob/main/regency.jpeg?raw=true' 
+  style='width:50%;float:right;margin:5px' />
+Caul,
+Aleand,
+Thomer,
+Vaude,
+Andrel,
+Villem,
+Laudius,
+Menry,
+Wester,
+Bragon,
+Wardius,
+Brance,
+Brutlas,
+Canter,
+Vaunt,
+Clance,
+Arcus,
+Clard,
+Colius,
+Mortio,
+Couvlas,
+Noretta,
+Octadia,
+Linea,
+Montess,
+Verbela,
+Solk,
+Vercy,
+Boury,
+Ardent,
+Vornan,
+Cambel,
+Somer,
+Vauphria,
+Orset,
+Ducell,
+Fendral, Corliss, Tarmond, Jorven, Raldis, Venthor, Clavin, Draemus, Othric, Caldred, Faynor, Milas, Hadrin, Lortan, Bryndel, Tanric, Volmar, Cyrend, Dorneth, Marnel
+
+```
+```
+
+
+##### Xanathar & The Islands
+<img  src='https://github.com/sigmanil/rpgimagerepo/blob/main/xanathar.jpeg?raw=true' 
+  style='width:50%;float:right;margin:5px' />
+Hanif,
+Sefu,
+Mbizi,
+Ubaid,
+Zuberi,
+Yahya,
+Darwishi,
+Ishaq,
+Osaze,
+Nkosi,
+Najja,
+Abuakar,
+Jibade,
+Onuris,
+Bennu,
+Fukayna,
+Abibah,
+Theoris,
+Umayma,
+Walidah,
+Acenath,
+Jamila,
+Panya,
+Sagira,
+Masika,
+Rehema,
+Nabirye,
+Oseye,
+Meht,
+Kakra,
+Maibe,
+Zaliki,
+Amahté,
+Djadao,
+Suten Anu,
+Sokkwi,
+Muntutep,
+Kahotep,
+Sinuhé,
+Adjo,
+Ibenré,
+Khenti,
+Anhuri,
+Kemnebi,
+Rasui,
+Nomti,
+Remmao
+
+##### Uru & the great desert
+<img  src='https://github.com/sigmanil/rpgimagerepo/blob/main/uru.jpeg?raw=true' 
+  style='width:50%;float:right;margin:5px' />
+Harud,
+Kothás,
+Vinid,
+Hasau,
+Kassai,
+Yosol,
+Meyem,
+Kañañ,
+Mór,
+Syar,
+Morug,
+Násu,
+Sesut,
+Lástal,
+Faraz,
+Dhár,
+Kathkár,
+Hosor,
+Nawar,
+Luyun,
+Kúlul,
+Kánan,
+Nilázem,
+Séliyál,
+Elizdi,
+Mykiri,
+Nábi,
+Kíring,
+Ñíhlendu,
+Ráka,
+Sóna, Távok, Yéran, Zásil, Dúnya, Fáskor, Lyñés, Kithár, Mórul, Veyon, Sarúz, Kasáyr, Nísol, Hórtan, Fyará, Nasyél, Qúrend, Dolán, Mesúr, Ríthas, Orulán
+
+
+##### Ankhyra & Cythonis
+<img  src='https://github.com/sigmanil/rpgimagerepo/blob/main/ankhyra.jpeg?raw=true' 
+  style='width:50%;float:right;margin:5px' />
+Erasmé,
+Pollaux,
+Pierroc,
+Épiers,
+Demophon,
+Anvean,
+Thersandre,
+Orêt,
+Sinon,
+Eumel,
+Christoph,
+Erix,
+Eupendre,
+Cadme,
+Icare,
+Perdix,
+Cerçon,
+Chrysothème,
+Thalia,
+Medée,
+Pandarée,
+Danaë,
+Macharia,
+Ariane,
+Êtenou,
+Adara,
+Cyrene,
+Laetitia,
+Cleite,
+Éande,
+Nephele,
+Ouranie,
+Lyra,
+Pasiphaë,
+Andromède,
+Ioannes,
+Makarios,
+Niphon,
+Theodoulos,
+Alexios,
+Theodoros,
+Leontios,
+Andronikos
+
+##### Dwarves
+Thrain, Durlin, Maerla, Grorim, Thraila, Kargun, Brynla, Faldor, Ormir, Durina, Vraelin, Tholmar, Gudrin, Maedrak, Brurla, Thrainna, Gorlim, Daerla, Borin, Thrara
+
+##### Elves
+**High elves**: 
+Eldrithia, Caeladris, Lorathian, Faelindra, Galadrius, Altharion, Naelithra, Selendir, Taeloria, Malendris, Yvranith, Caladrya, Haltharion, Ithilmae, Aeltharion, Zaelphir, Reltharis, Vaeloria, Quelandir, Kaelithra
+**Wood elves**: Lirien, Kaelmara, Thilren, Aelora, Faelthorn, Wynir, Teralin, Moenra, Sylthar, Elowen, Bramryl, Lysira, Quenlin, Myriel, Vareth, Sylara, Thalwen, Aralyn, Brethin, Fenlith
+
+##### Halflings
+Maribelle, Tolman, Adalric, Primula, Fosco, Dando, Rubyra, Halric, Rosamonde, Wilibald, Melbelle, Berylla, Hildigrim, Andwise, Belladonna, Othor, Lilyra, Esmerra, Filibert, Amaric
+
+\page
+
+#### For the Dungeon Master
+This is adressed to the DM, but players may also read it.
+
+##### Reaching 0 HP
+If a character or monsters HP is reduced to 0, they are out of the fight. For monsters and NPCs, choose to have them pass out, die or take a critical injury, as most befits the situation. For Player Characters, have them roll a Con check:
+___
+* A success means they are reeling. They *can* continue to fight, but if they take any more damage they die. Otherwise, they can fall down, play dead, and flee at the first opportunity.
+* A partial success means they pass out. If their friends win they will be fine,  otherwise they are captured or left for dead. 
+* On a failure they pass out, *and* suffer a critical injury.
+
+##### Critical hits
+If a Player Character or "boss enemy" rolls a 6 for damage in a cinematically significant situation (such as a last desperate strike, the first shot after a heroic speech or an especially well-described attack), you *may* declare that the attack was a critical hit. If you're not sure, roll a D20: On a 20 it was a critical. Critical hits cause a critical injury in addition to damage.
+
+##### Critical injuries
+When a character or creature suffers a *critical injury*, roll for the location and severity of the injury.
+
+Some locations have notes on special effects, and lost limbs cannot be restored except by powerful magic . Beyond that, the exact effects are left to the GM and players to reason out, though in general a critically injured limb cannot be used as normal. For instance, a facial injury might prevent eating solid foods.
+
+<div style='column-count:3'>
+| d100 | Location |
+|:----:|:---------|
+|01-02 |Foot |
+|03-07 |Shin |
+|08-10 |Knee |
+|11-20 |Thigh |
+|21-22 |Groin (a)| 
+|23-33 |Gut (b)|
+
+| d100 | Location |
+|:----:|:---------|
+|34-40 |Hip |
+|41-50 |Shoulder| 
+|51-70 |Chest (c)|
+|71-73 |Hand|
+|74-78 |Lwr Arm|
+
+| d100 | Location |
+|:----:|:---------|
+|79-81 |Elbow|
+|82-91 |Upr Arm|
+|92-93 |Neck (d)|
+|94-96 |Face (e)|
+|97-00 |Head (f)|
+</div>
+
+|d12| Severity| a| b| c| d| e| f|
+|:-:|:-------|:-:|:-:|:-:|:-:|:-:|:-:|
+|1  | Severed | I| D |D |X |X |X|
+|2-5| Maimed – can only be healed magically or with the surgery talent| I | O | L | X | D | D| 
+|6+ | Broken – will heal in 1d4+2 weeks| S | B | P | D | I | U |
+___
+* **S** Stunned – cannot act for 1 round
+* **I** Incapacitated, effectively unconscious
+* **U** Unconscious
+* **P** Pain from broken ribs, -2 all tests
+* **L** Punctured Lung, severe pain, -4 all tests
+* **B** Massive Bleeding, Death in 1d6 minutes without aid, can be treated using bandages and succeeding a heal check.
+* **O** Ruptured Organs, internal bleeding, Death in 1d3 minutes unless treated by magic.
+* **D** Death in 1d6 rounds
+* **X** Instant Death
+
+#### Multi-die attacks and magic
+Magical attacks do 2d6+level or 3d6+level damage if they are especially suited to the situation. Other attacks may also have multiple dice. On such an attack, designate a main die (use a different color). That die alone determines fumbles and criticals.
+
+#### General tips
+
+* Let the players describe things. Ask them about their characters homelands, their motivations, why they are on this adventure, *what they are fleeing from...*
+* Describe situations and ask "what do you do". Outside combat, bad things rarely happens if they players don't ignore a threat or miss a roll.
+* Telegraph your intent and incoming dangers. Make countdowns, like a big die that you keep reducing the number of as you describe the ever-closer footsteps of the guards...
+* Enemies are not limited to PC special abilities and could do anything. They have an armor rating of 0-4, depending on what makes sense. Goblin-level threats have D6/D4 HP/damage, Knight level  threats are 2d6/d6 and Demon level threats are 3d6/2d6. Descriptions and special abilities make them interresting.
+* If players attemt ~~crazy~~ interresting things in combat, let them roll a test and let the result be significant one way or the other - don't force them to just attack all the time. 
+* Not all adversaries can be harmed by just attacking. Sometimes you need to look for (and find a way to exploit) a weak spot.
+* Adversaries don’t have to be killed to get their treasure.
+* Give out some one-use magic items such as scrolls and potions fairly frequently, but let more powerful items be rare. Almost all magic should have some kind of downside or unpredictability.
+* Read the GM chapter from Dungeon World, and other Powerd By The Apocalypse games to understand the main gameplay loop. Note that World of Dungeons S is a hybrid, with more traditional combat but otherwise intended to have PbtA-like gameplay.
+* Don't worry *too much* about encumbrance, except for Thieves using the Dodge talent (who really shouln't carry much at all - removing a heavy backpack is an action). Don't begrudge the PCs a mule or cart, or even a bag of holding.
+* The game is about money. Thaumaturges and priests use 10s each time they cast a significant spell, everyone spends 2s each time they want to regain some of their HP, and the main way to get XP is to waste money on training and frivolous pursuits. To reach level 10, a single character needs 165 000 silver. Don't be stingy, give significant rewards and let them find valuable treasure. 
+* Think dangerously. Nothing in the game world is sacred. Let things break, towns be sacked and loved characters die, if the player characters cannot prevent it. Give them their chance at vengeance.
+* If the characters are being altruistic, taking jobs without pay or refusing rewards, give out out bonus XP comparable to the treasure they *could* have found. If they help a poor farmers clear out some goblins, you might give 200 bonus XP. If they took the job from a noble, the noble would have rewarded them 200s instead. Be clear upfront about the value of a job: "This kind of thing would normally pay xyz silver."
+
+\page
+<div class="wide">
+<img 
+  src='https://github.com/sigmanil/rpgimagerepo/blob/main/swodcharsheet.png?raw=true' 
+  style='width:105%' />
+</div>
