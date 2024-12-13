@@ -105,7 +105,7 @@ ____
 
 Take turns, one side then the other. Each combatant can move and take an action such as attacking. Attacks do not use the normal dice rolling rules, other actions (and risky movement) do.
 
-When attacking, roll your damage and subtract enemy armor. Target loses the remainder in HP. A roll of 1 is a fumble, apply damage but the DM may also describe some other consequence.
+When attacking, roll your damage (D4 if unarmed) and subtract enemy armor. Target loses the remainder in HP. A roll of 1 is a fumble, apply damage but the DM may also describe some other consequence.
 
 If on a grid, movement is 6 (5 if light armor, 4 if heavy), double if you do not take an action. Otherwise, handle movement abstractly, DM can ask for appropriate tests to get particularily far in one turn.
 ___
