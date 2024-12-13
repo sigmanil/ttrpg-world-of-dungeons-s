@@ -337,7 +337,7 @@ Theodoros,
 Leontios,
 Andronikos
 
-##### Dwarves of Karag an Kaz
+##### Dwarves of Karag ir Kaz
 Thrain, Durlin, Maerla, Grorim, Thraila, Kargun, Brynla, Faldor, Ormir, Durina, Vraelin, Tholmar, Gudrin, Maedrak, Brurla, Thrainna, Gorlim, Daerla, Borin, Thrara
 
 ##### Elves of Auralinis and Tirnathiel
