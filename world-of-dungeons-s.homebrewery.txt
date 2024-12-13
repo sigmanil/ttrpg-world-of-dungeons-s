@@ -28,7 +28,7 @@ ___
 |  5  | +1 Cha    |
 </div>
 
-*Str* is physical power and melee skill. *Dex* is stealth, balance, grace, reaction speed and aim with ranged weapons. *Con* is stamina and health. *Int* is knowledge and ability to reason and see through deception. *Wis* governs senses, awareness, bravery and resolve. *Cha* is charm, leadership and and force of personality.
+*Str* is physical power and is added to melee damage. *Dex* is stealth, balance, grace, reaction speed and is added to ranged damage. *Con* is stamina and health. *Int* is knowledge and ability to reason and see through deception. *Wis* governs senses, awareness, bravery and resolve. *Cha* is charm, leadership and and force of personality.
 
 ___
 * **HIT POINTS (HP)** You have maximum HP depending on your Con and level, see the level table. 
@@ -55,10 +55,9 @@ ___
 
 * RANGERS get ***Survival***. Choose two special abilities: **Pet** (you have a loyal and effective animal companion) **Scout** (when you scout ahead you always spot the target before it spots you) **Volley** (+2 ranged damage) **Wildtongue** (drink Quicksilver to be able to converse with and attempt to command animals for a short time) **Wildheart** (drink Quicksilver to change your form into that of a bird or animal for a short time. Its size is somewhere between a rat and a dog.)
 
-* WIZARDS get ***Decipher*** and ***Lore***. Choose two special abilities: **Cantrips** (you know and can attempt to manifest Level+Int simple magical powers from this list: Glow, Snap, Chill, Mend, Muffle, Clean, Gust, Heat, Tug, Scribe, Mask, Float, Bind, Soak, Sound. They create fairly limited or subtle effects.) **Telekinesis** (drink Quicksilver to be able to move things you can see with your mind for a short time, as if you was lifting it with a strength equal to your Cha.) **Illusions** (drink Quicksilver to create an illusory image and/or sound somewhere near you. If it is complex, roll Int to attempt to make it believable.) **Telepathy** (drink Quicksilver to be able to hold a short mental conversation with someone you can see or someone you know very well) **Elementalism** (you have power over 1+Int elements: *Earth, Wood, Metal, Fire, Flesh, Water, Air, Desire, Reason*. Drink Quicksilver to attempt (Cha) to create, destroy or manipulate one of your elements in some way. More significant effects have more significant consequences on a failure.)
-
 * THIEVES get ***Stealth***. Choose two special abilities: **Backstab** (attack from concealment to do +3 damage) **Dodge** (armor equals Dex if not wearing armor or shield, and not carrying anything heavy beyond a main hand weapon)  **Lucky** (once per session, turn a miss into a partial success or a partial success into a success) **Reflexes** (you always go first and can react when suddenly surprised) **Tinker** (you can attempt to quickly pick a lock, pick a pocket, or disarm a trap)
 
+* WIZARDS get ***Decipher*** and ***Lore***. Choose two special abilities: **Cantrips** (you know and can attempt to manifest Level+Int simple magical powers from this list: Glow, Snap, Chill, Mend, Muffle, Clean, Gust, Heat, Tug, Scribe, Mask, Float, Bind, Soak, Sound. They create fairly limited or subtle effects.) **Telekinesis** (drink Quicksilver to be able to move things you can see with your mind for a short time, as if you was lifting it with a strength equal to your Cha.) **Illusions** (drink Quicksilver to create an illusory image and/or sound somewhere near you. If it is complex, roll Int to attempt to make it believable.) **Telepathy** (drink Quicksilver to be able to hold a short mental conversation with someone you can see or someone you know very well) **Elementalism** (you have power over 1+Int elements: *Earth, Wood, Metal, Fire, Flesh, Water, Air, Desire, Reason*. Drink Quicksilver to attempt (Cha) to create, destroy or manipulate one of your elements in some way. More significant effects have more significant consequences on a failure.)
 
 > ##### Quicksilver 
 > This liquid magic is used by mages to fuel some of their powers. Drinking more than level+Con vials a day may cause harm.
@@ -72,8 +71,8 @@ ___
 #### Maximum HP and abilities by level
 | Level | XP needed | HP if<br/>Con=0 | HP if<br/>Con=1 | HP if<br/>Con=2 | HP if<br/>Con=3 | Skills | Attributes | Abilities | Damage |
 |:-----:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-| 1|      0| 4 | 5 | 6 | 7 |1+1|           | 2 | |
-| 2|  1 000| 7 | 8 | 9 | 10|   |           |   | |
+| 1|      0| 5 | 6 | 7 | 8 |1+1|           | 2 | |
+| 2|  1 000| 7 | 9 | 10| 11|   |           |   | |
 | 3|  3 000| 9 | 11| 12| 13| +1|           | +1| |
 | 4|  6 000| 11| 14| 16| 17|   |+1 (MAX +3)|   | |
 | 5| 10 000| 12| 16| 18| 20|   |           |   | +1d6 |
@@ -106,7 +105,7 @@ ____
 
 Take turns, one side then the other. Each combatant can move and take an action such as attacking. Attacks do not use the normal dice rolling rules, other actions (and risky movement) do.
 
-When attacking, roll your damage (D6-2 if unarmed) and subtract enemy armor. Target loses the remainder in HP. A roll of 1 is a fumble, apply damage but the DM may also describe some other consequence.
+When attacking, roll your damage and subtract enemy armor. Target loses the remainder in HP. A roll of 1 is a fumble, apply damage but the DM may also describe some other consequence.
 
 If on a grid, movement is 6 (5 if light armor, 4 if heavy), double if you do not take an action. Otherwise, handle movement abstractly, DM can ask for appropriate tests to get particularily far in one turn.
 ___
@@ -338,15 +337,15 @@ Theodoros,
 Leontios,
 Andronikos
 
-##### Dwarves
+##### Dwarves of Karag an Kaz
 Thrain, Durlin, Maerla, Grorim, Thraila, Kargun, Brynla, Faldor, Ormir, Durina, Vraelin, Tholmar, Gudrin, Maedrak, Brurla, Thrainna, Gorlim, Daerla, Borin, Thrara
 
-##### Elves
+##### Elves of Auralinis and Tirnathiel
 **High elves**: 
 Eldrithia, Caeladris, Lorathian, Faelindra, Galadrius, Altharion, Naelithra, Selendir, Taeloria, Malendris, Yvranith, Caladrya, Haltharion, Ithilmae, Aeltharion, Zaelphir, Reltharis, Vaeloria, Quelandir, Kaelithra
 **Wood elves**: Lirien, Kaelmara, Thilren, Aelora, Faelthorn, Wynir, Teralin, Moenra, Sylthar, Elowen, Bramryl, Lysira, Quenlin, Myriel, Vareth, Sylara, Thalwen, Aralyn, Brethin, Fenlith
 
-##### Halflings
+##### The Halfling Riverfolk
 Maribelle, Tolman, Adalric, Primula, Fosco, Dando, Rubyra, Halric, Rosamonde, Wilibald, Melbelle, Berylla, Hildigrim, Andwise, Belladonna, Othor, Lilyra, Esmerra, Filibert, Amaric
 
 \page
