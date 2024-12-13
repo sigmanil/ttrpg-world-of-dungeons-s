@@ -1,0 +1,109 @@
+/*=======---  Example CSS styling  ---=======*/
+/* Any CSS here will apply to your document! */
+
+.myExampleClass {
+	color: black;
+}
+
+/* A4 page size */
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
+
+/* Headers */
+
+/* latin-ext */
+@font-face {
+  font-family: 'Rye';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rye/v15/r05XGLJT86YzH57tfumh4gok.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Rye';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rye/v15/r05XGLJT86YzEZ7tfumh4g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+  .phb h1 {
+     color: black; 
+     font-weight: 400;
+     font-family: 'Rye';
+  }
+  
+  .phb h2, .phb h3 {
+     color: rgba(18,80,59,1); 
+  }
+
+  .phb h3 {
+    border-bottom-color: rgba(18,80,59,1);
+  }
+  
+  .phb h4, .phb h5 {
+     color: black; 
+  }
+  
+  .phb h1 { 
+     font-size: 4em;
+  }
+  .phb h2 { 
+     font-size: 2.7em;
+  }
+  
+  .phb h3 { 
+     font-size: 2.4em;
+  } 
+  
+  .phb h4 { 
+     font-size: 2em;
+  }
+  .phb h5 { 
+     font-size: 1.5em;
+  }
+   
+
+/* Background */
+/*  .phb{ 
+    background-image: url("http://i.imgur.com/UCIUXyr.jpg");
+    background-color: #bbb; 
+    background-blend-mode: hard-light, luminosity; 
+  }
+  .phb{ background-size: cover }*/
+  
+  .phb {
+    background-image: none;
+    background-color: white;
+  }
+
+/* Notes */
+  .phb blockquote {background-color: rgba(160,180,170,1)}
+  .phb hr + blockquote tr:nth-child(odd) td {background-color: #FDF1DC;}
+	
+/* Descriptives */
+ .phb .descriptive  {background-color: rgba(180,160,100,1)}
+
+/* Tables */
+  table tr:nth-child(odd) td {background-color: rgba(200,220,210,1)}
+
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.6)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.6)}
+  .phb:after{ background-image: url("http://i.imgur.com/UscfjJu.png") }
+/* Remove footer */
+  .phb:after{ display:none; }
+
+/* Front page */
+/*	.phb#p1 h1 {text-align:center; font-size: 2cm; } */
+
+/* Removes Drop Caps */
+.phb h1+p:first-letter {
+	all: unset;
+}
+
