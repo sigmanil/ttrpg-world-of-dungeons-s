@@ -1,6 +1,6 @@
 <div class="wide" style="text-align:center; font-size: 1em;">
 # World of Dungeons S
-A house-ruled version of World of Dungeons by Sigmund M. Nilssen. Credits to John Harper for writing the original World of Dungeons. Combat was inspired by Cairn by Yochai Gal. The Critical Wound Charts are based on the work of Denis Tetreault. 
+A hack of World of Dungeons by Sigmund M. Nilssen. Credits to John Harper for writing the original World of Dungeons. Combat was inspired by Cairn by Yochai Gal. The Critical Wound Charts are based on the work of Denis Tetreault. 
 </div>
 
 #### Character creation
@@ -25,7 +25,7 @@ ___
 | d6 | Change |
 |:---:|:------------|
 |  5  | +1 Wis    |
-|  5  | +1 Cha    |
+|  6  | +1 Cha    |
 </div>
 
 *Str* is physical power and is added to melee damage. *Dex* is stealth, balance, grace, reaction speed and is added to ranged damage. *Con* is stamina and health. *Int* is knowledge and ability to reason and see through deception. *Wis* governs senses, awareness, bravery and resolve. *Cha* is charm, leadership and and force of personality.
@@ -90,10 +90,10 @@ A total of 6 or less is a miss; things don’t go well and the risk turns out ba
 
 ___
 * **SKILLS** If you have an applicable skill, add +1 to the roll.
-* *Athletics* is used for physical actions such as climbing, jumping, rowing, etc.
+* *Athletics* covers trying to climb, jump, row, swim, etc.
 * *Awareness* is used to spot things and react quickly.
 * *Deception* is used to trick people in social interaction.
-* *Decipher* is used to interpret old texts and languages, and solve riddles.
+* *Decipher* is used to interpret old texts and languages.
 * *Heal* is used to treat wounds, poison and illness.
 * *Leadership* is used to charm or intimidate others.
 * *Lore* is used to reveal scholarly knowledge.
@@ -105,11 +105,12 @@ ____
 
 Take turns, one side then the other. Each combatant can move and take an action such as attacking. Attacks do not use the normal dice rolling rules, other actions (and risky movement) do.
 
-When attacking, roll your damage (D4 if unarmed) and subtract enemy armor. Target loses the remainder in HP. A roll of 1 is a fumble, apply damage but the DM may also describe some other consequence.
+When attacking (with weapons or magic), roll your damage dice (d6), add attribute and other bonuses (-2 if unarmed) and subtract enemy armor. Target loses the remainder in HP. A roll of 1 is a fumble, apply damage but the DM may also describe some other consequence.
 
 If on a grid, movement is 6 (5 if light armor, 4 if heavy), double if you do not take an action. Otherwise, handle movement abstractly, DM can ask for appropriate tests to get particularily far in one turn.
 ___
 **SWARMS** of unmemorable enemies act as a single entity. They can attack anyone in range once, but only one attack per target. If they lose half their total HP, the rest flee. If their total HP is ten times the sum of their opponents, fighting them normally is impossible.
+
 ```
 ```
 
@@ -412,7 +413,7 @@ ___
 * **X** Instant Death
 
 #### Multi-die attacks and magic
-Magical attacks do 2d6+level or 3d6+level damage if they are especially suited to the situation. Other attacks may also have multiple dice. On such an attack, designate a main die (use a different color). That die alone determines fumbles and criticals.
+Some rare and powerful attacks might use multiple dice such as 2d6 or  3d6. On such an attack, designate a main die (use a different color). That die alone determines fumbles and criticals.
 
 #### General tips
 
